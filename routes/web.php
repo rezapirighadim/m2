@@ -14,7 +14,7 @@ use App\Http\Controllers\laravel_example\UserManagement;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+include("forfity.php");
 
 Route::middleware([
     'auth:sanctum',
